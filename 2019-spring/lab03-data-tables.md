@@ -177,6 +177,10 @@ the following data types to each of the columns as:
     read the next 10 lines (lines 11-20)? Name this data as `abalone20`,
     and check its structure with `str()`.
 
+  - Read the documentation of `read.table()` about the argument
+    `colClasses`. What happens when you specify the data-type of one or
+    more columns as `"NULL"`?
+
   - Use the following functions to start examining descriptive aspects
     about the `abalone` data frame:
     
