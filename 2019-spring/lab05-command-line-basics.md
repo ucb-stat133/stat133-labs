@@ -186,7 +186,7 @@ curl -O http://textfiles.com/food/bread.txt
   - Use the command `mv` to rename the file `bread.txt` as
     `bread-recipe.txt`
 
-  - Rename the file `Fisher.csv` as `iris.csv`
+  - Rename the file `cars.csv` as `autos.csv`
 
   - Rename the file `btaco.txt` as `breakfast-taco.txt`
 
